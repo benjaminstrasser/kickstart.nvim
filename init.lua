@@ -1,6 +1,6 @@
-require('custom.editor')
-require('custom.keymap')
-require('custom.autocommands')
+require 'custom.editor'
+require 'custom.keymap'
+require 'custom.autocommands'
 
 -- [[ Install `lazy.nvim` plugin manager ]]
 --    See `:help lazy.nvim.txt` or https://github.com/folke/lazy.nvim for more info
